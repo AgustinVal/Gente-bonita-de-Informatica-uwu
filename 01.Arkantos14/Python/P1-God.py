@@ -2,7 +2,7 @@
 Encontrar el area minima de un terreno en el que se puede
 colocar dos casas rectangulares identicas de area a x b 
 Estas pueden estar rotadas (una o ambas), tambien tocar sus
-lados, pero como cualquier par de casas
+lados, pero como cualquier par de casas, no pueden solaparse :D
 Para clase
 '''
 import numpy as np
